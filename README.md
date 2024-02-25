@@ -1,66 +1,33 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Laporan Praktikum Pemrograman Web lanjut 2
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+**Nama: Asyifa Nurfadilah**  
+**Kelas: TI 2F**  
+**NIM: 2241720257**
 
-## About Laravel
+## Routing
+1. mencoba localhost/PWL_2024/public/hello  
+   ![image](https://github.com/Asyifa1409/POS/assets/128016402/c558c4fa-9f6a-42c1-9a6b-fcae7323d0c3)
+2.  mencoba localhost/PWL_2024/public/world  
+   ![image](https://github.com/Asyifa1409/POS/assets/128016402/31bd0c59-de29-4254-a8cb-98a1b5bac88c)
+3. mencoba localhost/PWL_2024/public  
+   ![image](https://github.com/Asyifa1409/POS/assets/128016402/decdf433-4c8d-4bd1-b8a1-58e217d05f9f)
+4. mencoba localhost/PWL_2024/public/about  
+   ![image](https://github.com/Asyifa1409/POS/assets/128016402/b97458aa-c978-4f36-80c9-c716401a13d1)
+5. localhost/PWL_2024/public/user/NamaAnda  
+   ![image](https://github.com/Asyifa1409/POS/assets/128016402/6501a2f2-922b-4160-9845-2e2cdfff3b0b)
+6. mencoba localhost/PWL_2024/public/posts/1/comments/5.  
+   ![image](https://github.com/Asyifa1409/POS/assets/128016402/19a8409b-cb03-4c27-8877-e9c91c81a042)
+7. mencoba localhost/PWL_2024/public/user  
+   ![image](https://github.com/Asyifa1409/POS/assets/128016402/9dbd85b1-1fdb-46a2-8fd2-30b31849c2c5)
+8. mencoba http://localhost/PWL_2024/public/user
+   ![image](https://github.com/Asyifa1409/POS/assets/128016402/a0eca42e-1e70-428d-a9ed-46ea8d55e5f0)
+9. mencoba localhost/PWL_2024/public/greeting
+    ![image](https://github.com/Asyifa1409/POS/assets/128016402/eac8ba85-7e3c-432a-93ab-dfbe73d19166)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
