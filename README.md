@@ -19,9 +19,9 @@
    ![image](https://github.com/Asyifa1409/POS/assets/128016402/19a8409b-cb03-4c27-8877-e9c91c81a042)
 7. mencoba localhost/PWL_2024/public/user  
    ![image](https://github.com/Asyifa1409/POS/assets/128016402/9dbd85b1-1fdb-46a2-8fd2-30b31849c2c5)
-8. mencoba http://localhost/PWL_2024/public/user
+8. mencoba http://localhost/PWL_2024/public/user  
    ![image](https://github.com/Asyifa1409/POS/assets/128016402/a0eca42e-1e70-428d-a9ed-46ea8d55e5f0)
-9. mencoba localhost/PWL_2024/public/greeting
+9. mencoba localhost/PWL_2024/public/greeting  
     ![image](https://github.com/Asyifa1409/POS/assets/128016402/eac8ba85-7e3c-432a-93ab-dfbe73d19166)
 
 
